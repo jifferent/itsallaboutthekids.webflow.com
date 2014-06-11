@@ -12,7 +12,7 @@ For mac/Linux user:
 3. _mkdir Projectname_
 4. _cd Projectname_
 5. _git init_
-6. _git clone https://github.com/jifferent/itsallaboutthekids.com.git_
+6. _git clone https://github.com/jifferent/itsallaboutthekids.webflow.com.git_
 ## Testing
 
 _How do I run the project's automated tests?_
