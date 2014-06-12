@@ -18,10 +18,15 @@ For mac/Linux user:
 _How do I run the project's automated tests?_
 
 
-### Integration Tests
+### Logo
+## _At line 30 of index.html_
+- `<img class="logo" src="images/logo-header.png" width="25" alt="530e4fc7f4a216ca3c0000e1_logo-header.png">
+          <div class="app-name">Logo</div>`
+- _This is the place where you can change the image of of the logo_
+1. _put the logo image under image folder_
+2. _change the src=”images/yourLogoPictureName.png”_
+3. _change the Logo at line 31 to the name you want.(ex: itsallaboutthekids.org)_
 
-1. _Run other local services / provide credentials for external services._
-2. `rake spec:integration`
 
 ## Deploying
 
